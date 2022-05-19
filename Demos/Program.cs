@@ -36,6 +36,18 @@ namespace DIO
 
             }
         }
+
+        static int EncontrarNumero(int[] numeros, int numero)
+        {
+            for (int contador = 0; contador < numeros.Length; contador++)
+            {
+                if (numeros[contador] == numero)
+                    return contador;
+
+            }
+            return -1;
+        }
+
         static void Demo1()
         {
             int a = 2;
@@ -89,20 +101,23 @@ namespace DIO
 
             Console.WriteLine($"O novo nome é {nome}");
         }
-        
-        static void Demo5(){
+
+        static void Demo5()
+        {
             int[] pares = new int[] { 0, 2, 4, 6, 8 };
 
             MudarParaImpar(pares);
 
             Console.WriteLine($"Os ímpares {string.Join(",", pares)}");
         }
+
+
         public static void Main()
-        {   
-            int[] numeros = new int[] {0, 2, 4, 6, 8};
+        {
+            int[] numeros = new int[] { 0, 2, 4, 6, 8 };
             Console.WriteLine($"Digite o número que gostaria de encontrar.");
             var numero = int.Parse(Console.ReadLine());
-            
+
         }
     }
 }
