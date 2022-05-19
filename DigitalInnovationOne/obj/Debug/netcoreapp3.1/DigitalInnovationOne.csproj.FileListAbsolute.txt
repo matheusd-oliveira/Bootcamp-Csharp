@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.exe
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.deps.json
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\bin\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.dll
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.pdb
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\DigitalInnovationOne\obj\Debug\netcoreapp3.1\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.exe
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.deps.json
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.dll
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\ref\DIO.dll
+C:\Users\mathe\Desktop\DIO\Demos\bin\Debug\net5.0\DIO.pdb
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.dll
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\ref\DIO.dll
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.pdb
+C:\Users\mathe\Desktop\DIO\Demos\obj\Debug\net5.0\DIO.genruntimeconfig.cache
