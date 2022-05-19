@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj": {
+    "C:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj",
         "projectName": "Ref",
-        "projectPath": "c:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\Ref.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\DIO\\TrabalhandoComRef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

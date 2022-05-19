@@ -3,7 +3,7 @@
 class Ref
 {
 
-    static void Adicionar20(int a)
+    static void Adicionar20(ref int a)
     {
         a += 20;
     }
@@ -11,7 +11,7 @@ class Ref
     {
 
         int a = 5;
-        Adicionar20(a);
+        Adicionar20(ref a);
         WriteLine($"O valor de a é {a}!");
     }
 }

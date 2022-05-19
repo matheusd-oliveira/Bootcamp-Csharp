@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.exe
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.deps.json
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.dll
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\ref\Ref.dll
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\bin\Debug\net5.0\Ref.pdb
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.dll
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\ref\Ref.dll
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.pdb
+C:\Users\mathe\Desktop\DIO\TrabalhandoComRef\obj\Debug\net5.0\Ref.genruntimeconfig.cache
