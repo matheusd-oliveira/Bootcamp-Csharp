@@ -18,6 +18,16 @@ class Ref
             }
         }
     }
+
+    static int LocalizarNome(string[] nomes, string nomeAtual)
+    {
+        for (int i = 0; i < nomes.Length; i++)
+        {
+            if (nomes[i] == nomeAtual)
+                return i;
+        }
+        return -1;
+    }
     static void Demo1()
     {
         int a = 5;
@@ -25,8 +35,7 @@ class Ref
         WriteLine($"O valor de a é {a}!");
     }
 
-
-    static void Main()
+    static void Demo2()
     {
         var nomes = new string[] { "Matheus", "Davi", "Narlynho", "Biel", "Felipe" };
 
@@ -43,5 +52,36 @@ class Ref
         WriteLine($@"A lista de nomes alterada é:
             {string.Join(", \n", nomes)}
         ");
-    }   
+    }
+    static void Main()
+    {
+        var nomes = new string[] { "Matheus", "Davi", "Narlynho", "Biel", "Felipe" };
+
+        WriteLine($@"A lista de nomes é:
+            {string.Join(", \n", nomes)}
+        ");
+
+        WriteLine("Digite o nome a ser substituido");
+        var nomeAtual = ReadLine();
+        WriteLine("Digite o nome novo");
+        var nomeNovo = ReadLine();
+
+        var indice = LocalizarNome(nomes, nomeAtual);
+
+        if (indice >= 0)
+        {
+            nomes[indice] = nomeNovo;
+            WriteLine($@"A lista de nomes alterada é:
+                {string.Join(", \n", nomes)}
+            ");
+        }
+        else
+        {
+            WriteLine("Nome não encontrado!");
+
+        }
+
+
+
+    }
 }
