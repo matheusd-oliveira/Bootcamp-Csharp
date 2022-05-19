@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 
 namespace DIO
 {
@@ -48,6 +48,17 @@ namespace DIO
             return -1;
         }
 
+        static bool EncontrarPessoa(List<StructPessoa> pessoas, StructPessoa pessoa)
+        {
+            foreach (var item in pessoas)
+            {
+                if (item.Equals(pessoa))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
         static void Demo1()
         {
             int a = 2;
@@ -111,12 +122,47 @@ namespace DIO
             Console.WriteLine($"Os ímpares {string.Join(",", pares)}");
         }
 
-
-        public static void Main()
+        static void Demo6()
         {
             int[] numeros = new int[] { 0, 2, 4, 6, 8 };
-            Console.WriteLine($"Digite o número que gostaria de encontrar.");
+            Console.Write($"Digite o número que gostaria de encontrar: ");
             var numero = int.Parse(Console.ReadLine());
+            var indexEncontrado = EncontrarNumero(numeros, numero);
+
+            if (indexEncontrado >= 0)
+            {
+                Console.WriteLine($"O número digitado está na posição: {indexEncontrado}");
+            }
+            else
+            {
+                Console.WriteLine($"O número digitado não foi encontrado");
+            }
+        }
+        public static void Main()
+        {
+
+            List<StructPessoa> pessoas = new List<StructPessoa>(){
+
+                new StructPessoa(){Nome = "Matheus"},
+                new StructPessoa(){Nome = "Davi"},
+                new StructPessoa(){Nome = "Jeiel"},
+                new StructPessoa(){Nome = "Narly"},
+                new StructPessoa(){Nome = "Lipe"},
+            };
+
+
+            Console.WriteLine("Digite a pessoa que gostaria de localizar: ");
+            var nome = Console.ReadLine();
+            var pessoaParaEncontrar = new StructPessoa() { Nome = nome };
+            var encontrado = EncontrarPessoa(pessoas, pessoaParaEncontrar);
+
+            if (encontrado)
+                Console.WriteLine("A pessoa foi encontrada com sucesso.");
+
+
+            else
+                Console.WriteLine($"A pessoa não foi encontrada na Lista");
+
 
         }
     }
