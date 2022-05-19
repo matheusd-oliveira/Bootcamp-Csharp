@@ -89,14 +89,20 @@ namespace DIO
 
             Console.WriteLine($"O novo nome é {nome}");
         }
-        public static void Main()
-        {
-
+        
+        static void Demo5(){
             int[] pares = new int[] { 0, 2, 4, 6, 8 };
 
             MudarParaImpar(pares);
 
             Console.WriteLine($"Os ímpares {string.Join(",", pares)}");
+        }
+        public static void Main()
+        {   
+            int[] numeros = new int[] {0, 2, 4, 6, 8};
+            Console.WriteLine($"Digite o número que gostaria de encontrar.");
+            var numero = int.Parse(Console.ReadLine());
+            
         }
     }
 }
