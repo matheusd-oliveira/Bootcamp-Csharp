@@ -1,4 +1,4 @@
-class Pessoa{
+public ref struct Pessoa{
 
     public int Idade { get; set; }
 
@@ -8,7 +8,7 @@ class Pessoa{
 }
 
 
-public struct Endereco {
+public ref struct Endereco {
 
     public int Numero { get; set; }
 
