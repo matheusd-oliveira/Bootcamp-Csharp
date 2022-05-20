@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.exe
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.deps.json
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.dll
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\ref\TiposDeReferenciaEValor.dll
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\bin\Debug\net5.0\TiposDeReferenciaEValor.pdb
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.dll
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\ref\TiposDeReferenciaEValor.dll
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.pdb
+C:\Users\mathe\Desktop\DIO\TiposDeReferenciaEValor\obj\Debug\net5.0\TiposDeReferenciaEValor.genruntimeconfig.cache
