@@ -18,9 +18,9 @@ namespace Aula_2
             else
                 WriteLine("Você é MENOR de idade!");
         }
-        static void Main()
-        {
 
+        static void Demo2()
+        {
             int mes;
 
             Write("Digite um número de mês: ");
@@ -34,7 +34,29 @@ namespace Aula_2
 
             else
                 WriteLine("Outro mês!");
-            
+        }
+        static void Main()
+        {
+
+            int mes;
+
+            Write("Digite um número de mês: ");
+            mes = int.Parse(ReadLine());
+
+            switch (mes)
+            {
+                case 1:
+                    WriteLine("Janeiro");
+                    break;
+
+                case 2:
+                    WriteLine("Fevereiro");
+                    break;
+                default:
+                    WriteLine("Outro mês");
+                    break;
+            }
+
 
         }
     }
