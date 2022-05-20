@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.exe
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.deps.json
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.dll
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\ref\Aula 1.dll
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\bin\Debug\net5.0\Aula 1.pdb
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.dll
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\ref\Aula 1.dll
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.pdb
+C:\Users\mathe\Desktop\DIO\Controlando Fluxo de Execução\Aula 1\obj\Debug\net5.0\Aula 1.genruntimeconfig.cache
