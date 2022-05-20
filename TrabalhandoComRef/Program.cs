@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿using System;
+using static System.Console;
 
 class Ref
 {
@@ -19,14 +20,14 @@ class Ref
         }
     }
 
-    static int LocalizarNome(string[] nomes, string nomeAtual)
+    static ref string LocalizarNome(string[] nomes, string nomeAtual)
     {
         for (int i = 0; i < nomes.Length; i++)
         {
             if (nomes[i] == nomeAtual)
-                return i;
+                return ref nomes[i];
         }
-        return -1;
+        throw new Exception("Nome não encontrado");
     }
     static void Demo1()
     {
@@ -66,11 +67,11 @@ class Ref
         WriteLine("Digite o nome novo");
         var nomeNovo = ReadLine();
 
-        var indice = LocalizarNome(nomes, nomeAtual);
+        ref var nomeAchado = ref LocalizarNome(nomes, nomeAtual);
 
-        if (indice >= 0)
+        if (!string.IsNullOrWhiteSpace(nomeAchado))
         {
-            nomes[indice] = nomeNovo;
+            nomeAchado = nomeNovo;
             WriteLine($@"A lista de nomes alterada é:
                 {string.Join(", \n", nomes)}
             ");
