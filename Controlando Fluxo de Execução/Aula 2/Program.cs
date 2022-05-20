@@ -5,7 +5,8 @@ namespace Aula_2
 {
     class Program
     {
-        static void Main()
+
+        static void Demo1()
         {
             int idade;
 
@@ -16,6 +17,28 @@ namespace Aula_2
                 WriteLine("Você é maior de idade!");
             else
                 WriteLine("Você é MENOR de idade!");
+        }
+        static void Main()
+        {
+
+            int mes;
+
+            Write("Digite um número de mês: ");
+            mes = int.Parse(ReadLine());
+
+            if (mes == 1)
+            {
+                WriteLine("Janeiro");
+            }
+            else if (mes == 2)
+            {
+                WriteLine("Fevereiro");
+            }
+            else{
+                WriteLine("Outro mês!");
+            }
+
+
         }
     }
 }
