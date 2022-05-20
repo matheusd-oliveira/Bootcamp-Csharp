@@ -27,17 +27,14 @@ namespace Aula_2
             mes = int.Parse(ReadLine());
 
             if (mes == 1)
-            {
                 WriteLine("Janeiro");
-            }
-            else if (mes == 2)
-            {
-                WriteLine("Fevereiro");
-            }
-            else{
-                WriteLine("Outro mês!");
-            }
 
+            else if (mes == 2)
+                WriteLine("Fevereiro");
+
+            else
+                WriteLine("Outro mês!");
+            
 
         }
     }
