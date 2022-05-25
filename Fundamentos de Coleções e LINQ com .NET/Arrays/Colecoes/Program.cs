@@ -8,20 +8,32 @@ namespace Colecoes
         static void Main(string[] args)
         {
 
-            int[,] matriz = new int[4, 2]{
-                { 8, 8},
-                {10, 20},
-                {5, 100},
-                {90, 200}
-            };
+            OperacoesArray op = new OperacoesArray();
 
-            for (int l = 0; l < matriz.GetLength(0); l++)
-            {
-                for (int c = 0; c < matriz.GetLength(1); c++)
-                {
-                    WriteLine(matriz[l, c]);
-                }
-            }
+            int[] array = new int[5] { 4, 2, 8, 10, 6 };
+
+            WriteLine("Array Original:");
+            op.ImprimirArray(array);
+
+            op.OrdenarBubbleSort(ref array);
+
+            WriteLine("Array Ordenado:");
+            op.ImprimirArray(array);
+            
+            // int[,] matriz = new int[4, 2]{
+            //     { 8, 8},
+            //     {10, 20},
+            //     {5, 100},
+            //     {90, 200}
+            // };
+
+            // for (int l = 0; l < matriz.GetLength(0); l++)
+            // {
+            //     for (int c = 0; c < matriz.GetLength(1); c++)
+            //     {
+            //         WriteLine(matriz[l, c]);
+            //     }
+            // }
 
 
             // int[] arrayInteiros = new int[3];
