@@ -15,9 +15,13 @@ namespace Colecoes
             WriteLine("Array Original:");
             op.ImprimirArray(array);
 
-            op.OrdenarBubbleSort(ref array);
+            // op.OrdenarBubbleSort(ref array);
 
-            WriteLine("Array Ordenado:");
+            // WriteLine("Array Ordenado:");
+            // op.ImprimirArray(array);
+
+            WriteLine("Array Ordenado pela classe Array:");
+            op.Ordenar(ref array);
             op.ImprimirArray(array);
             
             // int[,] matriz = new int[4, 2]{

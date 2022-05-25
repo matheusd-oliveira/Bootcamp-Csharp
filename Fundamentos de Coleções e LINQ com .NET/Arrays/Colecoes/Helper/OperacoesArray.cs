@@ -1,4 +1,5 @@
 using static System.Console;
+using System;
 
 public class OperacoesArray
 {
@@ -28,5 +29,9 @@ public class OperacoesArray
         // {
         //     WriteLine(array[i]);
         // }
+    }
+
+    public void Ordenar(ref int[] array){
+        Array.Sort(array);
     }
 }
