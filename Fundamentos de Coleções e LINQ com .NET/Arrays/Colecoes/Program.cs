@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Colecoes
 {
@@ -12,6 +13,17 @@ namespace Colecoes
             arrayInteiros[1] = 20;
             arrayInteiros[2] = 30;
 
+            WriteLine("Percorrendo array pelo for");
+            for (int i = 0; i < arrayInteiros.Length; i++)
+            {
+                WriteLine(arrayInteiros[i]);
+            }
+
+            WriteLine("Percorrendo array pelo foreach");
+            foreach (int item in arrayInteiros)
+            {
+                WriteLine(item);
+            }
         }
     }
 }
