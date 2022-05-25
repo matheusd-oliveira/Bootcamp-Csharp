@@ -38,4 +38,8 @@ public class OperacoesArray
     public void Copiar(ref int[] array, ref int[] arrayDestino){
         Array.Copy(array, arrayDestino, array.Length);
     }
+
+    public bool Existe(int[] array, int valor){
+        return Array.Exists(array, elemento => elemento == valor);
+    }
 }
