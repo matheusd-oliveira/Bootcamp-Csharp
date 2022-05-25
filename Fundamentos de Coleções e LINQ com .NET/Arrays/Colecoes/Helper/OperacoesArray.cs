@@ -21,10 +21,12 @@ public class OperacoesArray
         }
     }
     public void ImprimirArray(int[] array)
-    {
-        for (int i = 0; i < array.Length; i++)
-        {
-            WriteLine(array[i]);
-        }
+    {   
+        var linha = string.Join(", ", array);
+        WriteLine(linha);
+        // for (int i = 0; i < array.Length; i++)
+        // {
+        //     WriteLine(array[i]);
+        // }
     }
 }
