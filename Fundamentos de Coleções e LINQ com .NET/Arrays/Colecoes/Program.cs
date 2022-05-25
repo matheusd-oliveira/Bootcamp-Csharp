@@ -6,13 +6,18 @@ namespace Colecoes
     class Program
     {
         static void Main(string[] args)
-        {
-            int[] arrayInteiros = new int[3];
+        {   
+            
+            int[,] matriz = new int[4, 2];
+            
 
-            arrayInteiros[0] = 10;
-            arrayInteiros[1] = 20;
-            arrayInteiros[2] = 30;
+            
+            // int[] arrayInteiros = new int[3];
 
+            // arrayInteiros[0] = 10;
+            // arrayInteiros[1] = 20;
+            // arrayInteiros[2] = int.Parse("30");
+            
             
             // WriteLine("Percorrendo array pelo for");
             // for (int i = 0; i < arrayInteiros.Length; i++)
