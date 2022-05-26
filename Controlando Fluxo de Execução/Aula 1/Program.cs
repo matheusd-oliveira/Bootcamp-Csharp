@@ -19,9 +19,7 @@ class Program
 
         total = valor1 + valor2;
         WriteLine($"A soma dos dois valores é: {total}");
-
-
-
+        
 
     }
 }
