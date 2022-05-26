@@ -13,13 +13,35 @@ namespace Colecoes
             int[] array = new int[5] { 4, 2, 8, 10, 6 };
             int[] arrayCopia = new int[10];
 
+            int valorProcurado = 6;
 
-            int valorProcurado = 2;
-            bool existe = op.Existe(array, valorProcurado);
-            if(existe)
-                WriteLine($"Encontrei o valor: {valorProcurado}");
-            else
-                WriteLine($"Não encontrei o valor {valorProcurado}");
+            int indice = op.ObterIndice(array, valorProcurado);
+
+            if (indice > -1)
+                WriteLine($"O indice do elemento {valorProcurado} é {indice}");
+            else   
+                WriteLine("Valor não existente no array.");
+
+            // int valorAchado = op.ObterValor(array, valorProcurado);
+
+            // if (valorAchado > 0)
+            //     WriteLine("Encontrei");
+            // else
+            //     WriteLine("Não encontrei");
+
+            // bool todosMaiorQue = op.TodosMaiorQue(array, valorProcurado);
+
+            // if(todosMaiorQue)
+            //     WriteLine($"Todos os valores são maior que {valorProcurado}");
+            // else
+            //     WriteLine($"Existem valores que não são maiores que {valorProcurado}");
+            // int valorProcurado = 2;
+            // bool existe = op.Existe(array, valorProcurado);
+            // if(existe)
+            //     WriteLine($"Encontrei o valor: {valorProcurado}");
+            // else
+            //     WriteLine($"Não encontrei o valor {valorProcurado}");
+
             // WriteLine("Array Original:");
             // op.ImprimirArray(array);
 
