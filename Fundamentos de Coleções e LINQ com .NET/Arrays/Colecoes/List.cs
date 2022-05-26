@@ -18,8 +18,11 @@ namespace Colecoes
             
             opLista.ImprimirListaString(estados);
 
-            estados.Remove();
+            System.Console.WriteLine("Removendo o elemento");
+            estados.Remove("MG");
+            opLista.ImprimirListaString(estados);
 
+            
         }
     }
 }
