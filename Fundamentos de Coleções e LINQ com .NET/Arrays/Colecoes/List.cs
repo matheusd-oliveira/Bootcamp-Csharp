@@ -20,7 +20,7 @@ namespace Colecoes
             
             opLista.ImprimirListaString(estados);
             
-            // Adicionando outra coleção dentro da lista.
+            // Adicionando outra coleção dentro da
             estados.AddRange(estadosArray);
             opLista.ImprimirListaString(estados);
             // System.Console.WriteLine("Removendo o elemento");
