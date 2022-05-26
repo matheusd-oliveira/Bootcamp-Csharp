@@ -12,15 +12,19 @@ namespace Colecoes
 
             int[] array = new int[5] { 4, 2, 8, 10, 6 };
             int[] arrayCopia = new int[10];
+            string[] arrayString = op.ConverterArrayParaString(array);
+           // int valorProcurado = 6;
 
-            int valorProcurado = 6;
+            WriteLine($"Capacidade atual do array: {array.Length}");
+            op.RedimensionarArray(ref array, array.Length * 2);
 
-            int indice = op.ObterIndice(array, valorProcurado);
+            WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+            // int indice = op.ObterIndice(array, valorProcurado);
 
-            if (indice > -1)
-                WriteLine($"O indice do elemento {valorProcurado} é {indice}");
-            else   
-                WriteLine("Valor não existente no array.");
+            // if (indice > -1)
+            //     WriteLine($"O indice do elemento {valorProcurado} é {indice}");
+            // else   
+            //     WriteLine("Valor não existente no array.");
 
             // int valorAchado = op.ObterValor(array, valorProcurado);
 

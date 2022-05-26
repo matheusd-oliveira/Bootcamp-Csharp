@@ -54,4 +54,13 @@ public class OperacoesArray
     public int ObterIndice(int[] array, int valor){
         return Array.IndexOf(array, valor);
     }
+
+    public void RedimensionarArray(ref int[] array, int novoTamanho){
+        Array.Resize(ref array, novoTamanho);
+    }
+
+    public string[] ConverterArrayParaString(int[] array){
+
+        return Array.ConvertAll(array, elemento => elemento.ToString());
+    }
 }
