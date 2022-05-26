@@ -1,25 +1,25 @@
-﻿using System;
-using static System.Console;
+﻿// using System;
+// using static System.Console;
 
-namespace Colecoes
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+// namespace Colecoes
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
 
-            OperacoesArray op = new OperacoesArray();
+//             OperacoesArray op = new OperacoesArray();
 
-            int[] array = new int[5] { 4, 2, 8, 10, 6 };
-            int[] arrayCopia = new int[10];
-            string[] arrayString = op.ConverterArrayParaString(array);
-           // int valorProcurado = 6;
+//             int[] array = new int[5] { 4, 2, 8, 10, 6 };
+//             int[] arrayCopia = new int[10];
+//             string[] arrayString = op.ConverterArrayParaString(array);
+//            // int valorProcurado = 6;
 
-            WriteLine($"Capacidade atual do array: {array.Length}");
-            op.RedimensionarArray(ref array, array.Length * 2);
+//             WriteLine($"Capacidade atual do array: {array.Length}");
+//             op.RedimensionarArray(ref array, array.Length * 2);
 
-            WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
-            // int indice = op.ObterIndice(array, valorProcurado);
+//             WriteLine($"Capacidade atual do array após redimensionar: {array.Length}");
+//             // int indice = op.ObterIndice(array, valorProcurado);
 
             // if (indice > -1)
             //     WriteLine($"O indice do elemento {valorProcurado} é {indice}");
@@ -99,6 +99,6 @@ namespace Colecoes
             // {
             //     WriteLine(item);
             // }
-        }
-    }
-}
+//         }
+//     }
+// }
