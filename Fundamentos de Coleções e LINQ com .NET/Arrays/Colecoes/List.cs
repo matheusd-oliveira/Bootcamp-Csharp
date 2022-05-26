@@ -18,11 +18,17 @@ namespace Colecoes
 
             System.Console.WriteLine($"A quantidade de elementos na lista: {estados.Count}");
             
-            opLista.ImprimirListaString(estados);
+           
             
-            // Adicionando outra coleção dentro da
-            estados.AddRange(estadosArray);
+            // Adicionando outra coleção dentro da lista
+            // estados.AddRange(estadosArray);
+
+            // Add no Indice
+            estados.Insert(1, "RJ");
             opLista.ImprimirListaString(estados);
+
+
+
             // System.Console.WriteLine("Removendo o elemento");
             // estados.Remove("MG");
             // opLista.ImprimirListaString(estados);
