@@ -2,7 +2,8 @@
 using System.Runtime.Serialization;
 
 public class MyClassException : Exception
-{
+{   
+    
     public MyClassException()
     {
     }
