@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
@@ -19,12 +19,17 @@ catch (System.Exception Exception)
     System.Console.WriteLine(Exception.Message);
 
 }
-
+finally
+{
+    System.Console.WriteLine("Finalmente a divisão foi finalizada!");
+}
 
 
 
 static int Dividir(int x, int y)
-{
+{   
+    if(y == 0)
+        throw new ArithmeticException();
     return (x / y);
 }
 
