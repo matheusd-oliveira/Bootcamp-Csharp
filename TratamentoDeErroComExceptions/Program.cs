@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 
@@ -29,7 +30,7 @@ finally
 static int Dividir(int x, int y)
 {   
     if(y == 0)
-        throw new ArithmeticException();
+        throw new MyClassException("Minha mensagem customizada de erro!");
     return (x / y);
 }
 
