@@ -16,23 +16,30 @@ namespace Colecoes
             ddds.Add("FSA", "75");
             ddds.Add("outro estado", "81");
 
+
+            foreach (KeyValuePair<string,string> item in ddds)
+            {
+                System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            }
+
+
             string valorProcurado = "FSA";
 
-            System.Console.WriteLine("Valor Original: ");
-            System.Console.WriteLine(ddds[valorProcurado]);
+            if(ddds.TryGetValue(valorProcurado, out string dddEncontrado))
+                System.Console.WriteLine(dddEncontrado);
+            else
+                System.Console.WriteLine($"Chave {valorProcurado} não existe no Dicionário");
 
-            ddds[valorProcurado] = "75 - TESTE ATUALIZAÇÃO";
-            System.Console.WriteLine("Valor Atualizado: ");
-            System.Console.WriteLine(ddds[valorProcurado]);
+            // System.Console.WriteLine("Valor Original: ");
+            // System.Console.WriteLine(ddds[valorProcurado]);
 
-
-
-            // foreach (KeyValuePair<string,string> item in ddds)
-            // {
-            //     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-            // }
-
-
+            // ddds[valorProcurado] = "75 - TESTE ATUALIZAÇÃO";
+            // System.Console.WriteLine("Valor Atualizado: ");
+            // System.Console.WriteLine(ddds[valorProcurado]);
+            
+            // System.Console.WriteLine("Removendo o valor: ");
+            // ddds.Remove("SSA");
+            
 
             // pilhaLivros.Push(".NET");
             // pilhaLivros.Push("DDD");
