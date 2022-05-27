@@ -3,7 +3,6 @@ C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Cole
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\bin\Debug\net5.0\Colecoes.dll
-C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\bin\Debug\net5.0\Colecoes.pdb
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Cole
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\Colecoes.pdb
 C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DIO\Fundamentos de Coleções e LINQ com .NET\Arrays\Colecoes\obj\Debug\net5.0\refint\Colecoes.dll
