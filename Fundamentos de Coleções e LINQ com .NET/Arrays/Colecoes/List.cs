@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Colecoes
 {
@@ -8,27 +9,43 @@ namespace Colecoes
         static void Main(string[] args)
         {
 
+            // Utilizando o LINQ 
 
-            Stack<string> pilhaLivros = new Stack<string>();
-            Dictionary<string, string> ddds = new Dictionary<string, string>();
+            int[] arrayNumeros = new int[5] { 1, 4, 8, 15, 19 };
 
-            ddds.Add("SSA", "77");
-            ddds.Add("FSA", "75");
-            ddds.Add("outro estado", "81");
+            // Utilizando o LINQ COM A SINTAXE
+
+            var numerosParesQuery =
+                from num in arrayNumeros
+                where num % 2 == 0
+                orderby num
+                select num;
+
+            // Outra forma de FAZER COM O LINQ
+            var numerosParesMetodo = arrayNumeros.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+
+            System.Console.WriteLine($"Números pares query: {string.Join(", ", numerosParesQuery)}");
+            System.Console.WriteLine($"Números pares método: {string.Join(", ", numerosParesMetodo)}");
+            // Stack<string> pilhaLivros = new Stack<string>();
+            // Dictionary<string, string> ddds = new Dictionary<string, string>();
+
+            // ddds.Add("SSA", "77");
+            // ddds.Add("FSA", "75");
+            // ddds.Add("outro estado", "81");
 
 
-            foreach (KeyValuePair<string,string> item in ddds)
-            {
-                System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-            }
+            // foreach (KeyValuePair<string,string> item in ddds)
+            // {
+            //     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            // }
 
 
-            string valorProcurado = "FSA";
+            // string valorProcurado = "FSA";
 
-            if(ddds.TryGetValue(valorProcurado, out string dddEncontrado))
-                System.Console.WriteLine(dddEncontrado);
-            else
-                System.Console.WriteLine($"Chave {valorProcurado} não existe no Dicionário");
+            // if(ddds.TryGetValue(valorProcurado, out string dddEncontrado))
+            //     System.Console.WriteLine(dddEncontrado);
+            // else
+            //     System.Console.WriteLine($"Chave {valorProcurado} não existe no Dicionário");
 
             // System.Console.WriteLine("Valor Original: ");
             // System.Console.WriteLine(ddds[valorProcurado]);
@@ -36,10 +53,10 @@ namespace Colecoes
             // ddds[valorProcurado] = "75 - TESTE ATUALIZAÇÃO";
             // System.Console.WriteLine("Valor Atualizado: ");
             // System.Console.WriteLine(ddds[valorProcurado]);
-            
+
             // System.Console.WriteLine("Removendo o valor: ");
             // ddds.Remove("SSA");
-            
+
 
             // pilhaLivros.Push(".NET");
             // pilhaLivros.Push("DDD");
