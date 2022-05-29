@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj": {
+    "C:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj",
         "projectName": "StringWritter",
-        "projectPath": "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

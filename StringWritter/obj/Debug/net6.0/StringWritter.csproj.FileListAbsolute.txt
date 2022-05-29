@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\DIO\StringWritter\bin\Debug\net6.0\StringWritter.exe
+C:\Users\mathe\Desktop\DIO\StringWritter\bin\Debug\net6.0\StringWritter.deps.json
+C:\Users\mathe\Desktop\DIO\StringWritter\bin\Debug\net6.0\StringWritter.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\StringWritter\bin\Debug\net6.0\StringWritter.dll
+C:\Users\mathe\Desktop\DIO\StringWritter\bin\Debug\net6.0\StringWritter.pdb
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.dll
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\refint\StringWritter.dll
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.pdb
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\StringWritter.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DIO\StringWritter\obj\Debug\net6.0\ref\StringWritter.dll
