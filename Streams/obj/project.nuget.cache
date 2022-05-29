@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "euv+OiUuA3u95Mdx/VxHR56oyWH4tPKHHiyhqyG3JxFzFmBxkvaP7aa1ZEk+x+mDPuN9cgK3Cg8IY33bLAEbgg==",
+  "dgSpecHash": "fuWf4aFXS2fLF41bF1gVf1myeTImWtrgecOrrZTI9yRHBNC6MdVQg/P3O/p/zCriZVzcBEBn+mMQxiqRk8H+AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\FileSystemWatcher.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\Streams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
   ],

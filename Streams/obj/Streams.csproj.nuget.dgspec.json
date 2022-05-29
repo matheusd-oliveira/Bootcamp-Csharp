@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\FileSystemWatcher.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\Streams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\FileSystemWatcher.csproj": {
+    "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\Streams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\FileSystemWatcher.csproj",
-        "projectName": "FileSystemWatcher",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\FileSystemWatcher.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\Streams.csproj",
+        "projectName": "Streams",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\Streams.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\DIO\\FileSystemWatcher\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\DIO\\Streams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
