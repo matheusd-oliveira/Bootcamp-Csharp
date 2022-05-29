@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "loVjznJjjJOlYMz7Opu028LeO76Sqb04lXqrXt7aTZx1FUGANCJaCBESpQg4qjt+hwtfZ52wfhXFvUmM8R+fJA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\mathe\\Desktop\\DIO\\StringWritter\\StringWritter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
