@@ -6,6 +6,12 @@ var nome = ReadLine();
 var path = Path.Combine(Environment.CurrentDirectory, $"{nome}.txt");
 
 
+CriarArquivo(path);
+WriteLine();
+WriteLine("Arquivo criado com sucesso!");
+
+
+
 static void CriarArquivo(string path)
 {
     using var sw = File.CreateText(path);
@@ -18,7 +24,3 @@ static void CriarArquivo(string path)
     // Dando o flush para descarregar as linhas escritas da memória para o arquivo.
     sw.Flush();
 }
-
-CriarArquivo(path);
-WriteLine();
-WriteLine("Arquivo criado com sucesso!");
