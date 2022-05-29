@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Btz8ylzhJS6ZNB33d451FIqGdsLEFzxKId30N23CCbeI/KBqg6M8TsCpHciJEq4r4o2e7iLAqqk56h2BW3HuUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\DIO\\csvStream\\csvStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
