@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\refint\Directory_And_DirectoryInfo.dll
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DIO\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
