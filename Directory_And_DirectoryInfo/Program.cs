@@ -8,8 +8,24 @@ var destino = Path.Combine(
     "Brasil", "brasil.txt");
 
 MoverArquivo(origem, destino);
+CopiarArquivo(origem, destino);
 
-static void CopiarArquivo(string pathOrigem, string pathDestino){}
+static void CopiarArquivo(string pathOrigem, string pathDestino)
+{   
+    if (!File.Exists(pathOrigem))
+    {
+        Console.WriteLine("Arquivo de origem não existe.");
+        return;
+    }
+
+    if (!File.Exists(pathDestino))
+    {
+        Console.WriteLine("Arquivo de destino não existe.");
+        return;
+    }
+    
+    File.Copy(pathOrigem, pathDestino);
+}
 
 
 static void MoverArquivo(string pathOrigem, string pathDestino)
