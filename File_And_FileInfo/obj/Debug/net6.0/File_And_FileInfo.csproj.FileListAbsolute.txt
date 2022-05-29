@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\bin\Debug\net6.0\File_And_FileInfo.exe
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\bin\Debug\net6.0\File_And_FileInfo.deps.json
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\bin\Debug\net6.0\File_And_FileInfo.runtimeconfig.json
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\bin\Debug\net6.0\File_And_FileInfo.dll
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\bin\Debug\net6.0\File_And_FileInfo.pdb
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.AssemblyInfo.cs
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.dll
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\refint\File_And_FileInfo.dll
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.pdb
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\File_And_FileInfo.genruntimeconfig.cache
+C:\Users\mathe\Desktop\DIO\File_And_FileInfo\obj\Debug\net6.0\ref\File_And_FileInfo.dll

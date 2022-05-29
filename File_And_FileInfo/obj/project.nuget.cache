@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2v7pLMPkJb/asOJMPsG9IQdKFSJ1g9ZK3BUDj61IXe+hCLOuYSEM1RumJ+5UutMnBWxTc6QIJmYl67J/eKs9Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\DIO\\File_And_FileInfo\\File_And_FileInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
