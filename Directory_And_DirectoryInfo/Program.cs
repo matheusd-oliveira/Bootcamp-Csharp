@@ -1,18 +1,38 @@
 ﻿CriarDiretoriosGlobo();
-CriarArquivo();
+//CriarArquivo();
 
 var origem = Path.Combine(Environment.CurrentDirectory, "brasil.txt");
 var destino = Path.Combine(
-    Environment.CurrentDirectory, 
-    "globo", "América do Sul", 
+    Environment.CurrentDirectory,
+    "globo", "América do Sul",
     "Brasil", "brasil.txt");
 
 MoverArquivo(origem, destino);
 
+static void CopiarArquivo(string pathOrigem, string pathDestino){}
+
+
 static void MoverArquivo(string pathOrigem, string pathDestino)
 {
+    if (!File.Exists(pathOrigem))
+    {
+        Console.WriteLine("Arquivo de origem não existe.");
+        return;
+    }
+
+    if (!File.Exists(pathDestino))
+    {
+        Console.WriteLine("Arquivo de destino não existe.");
+        return;
+    }
+
+
     File.Move(pathOrigem, pathDestino);
+
+
 }
+
+
 static void CriarArquivo()
 {
     var path = Path.Combine(Environment.CurrentDirectory, "brasil.txt");
@@ -25,6 +45,8 @@ static void CriarArquivo()
     }
 
 }
+
+
 static void CriarDiretoriosGlobo()
 {
 
