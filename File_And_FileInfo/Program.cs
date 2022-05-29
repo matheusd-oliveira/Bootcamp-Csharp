@@ -1,6 +1,9 @@
-﻿// Criando arquivos.
+﻿using static System.Console;
 
-var path = Path.Combine(Environment.CurrentDirectory, "teste.txt");
+// Criando arquivos.
+Write("Digite o nome do arquivo: ");
+var nome = ReadLine();
+var path = Path.Combine(Environment.CurrentDirectory, $"{nome}.txt");
 
 
 static void CriarArquivo(string path)
@@ -17,3 +20,5 @@ static void CriarArquivo(string path)
 }
 
 CriarArquivo(path);
+WriteLine();
+WriteLine("Arquivo criado com sucesso!");
